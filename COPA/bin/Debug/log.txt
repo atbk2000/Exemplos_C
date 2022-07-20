@@ -1,0 +1,41 @@
+ 1  =>  Nome  =>  *RéSSIA*  Grupo  =>  *1*  Pos.  =>  *1*   
+ 2  =>  Nome  =>  *PORTUGAL*  Grupo  =>  *2*  Pos.  =>  *1*   
+ 3  =>  Nome  =>  *BRASIL*  Grupo  =>  *3*  Pos.  =>  *1*   
+ 4  =>  Nome  =>  *BLGICA*  Grupo  =>  *4*  Pos.  =>  *1*   
+ 5  =>  Nome  =>  *ARGENTINA*  Grupo  =>  *5*  Pos.  =>  *1*   
+ 6  =>  Nome  =>  *POLâNIA*  Grupo  =>  *6*  Pos.  =>  *1*   
+ 7  =>  Nome  =>  *ALEMANHA*  Grupo  =>  *7*  Pos.  =>  *1*   
+ 8  =>  Nome  =>  *FRAN€A*  Grupo  =>  *8*  Pos.  =>  *1*   
+ 9  =>  Nome  =>  *COLâMBIA*  Grupo  =>  *1*  Pos.  =>  *2*   
+ 10  =>  Nome  =>  *ESPANHA*  Grupo  =>  *2*  Pos.  =>  *2*   
+ 11  =>  Nome  =>  *PERU*  Grupo  =>  *4*  Pos.  =>  *3*   
+ 12  =>  Nome  =>  *INGLATERRA*  Grupo  =>  *3*  Pos.  =>  *2*   
+ 13  =>  Nome  =>  *MXICO*  Grupo  =>  *5*  Pos.  =>  *3*   
+ 14  =>  Nome  =>  *SUI€A*  Grupo  =>  *6*  Pos.  =>  *3*   
+ 15  =>  Nome  =>  *URUGUAI*  Grupo  =>  *7*  Pos.  =>  *3*   
+ 16  =>  Nome  =>  *CROµCIA*  Grupo  =>  *8*  Pos.  =>  *3*   
+ 17  =>  Nome  =>  *ISL¶NDIA*  Grupo  =>  *1*  Pos.  =>  *3*   
+ 18  =>  Nome  =>  *DINAMARCA*  Grupo  =>  *3*  Pos.  =>  *3*   
+ 19  =>  Nome  =>  *TUNÖSIA*  Grupo  =>  *2*  Pos.  =>  *3*   
+ 20  =>  Nome  =>  *SUCIA*  Grupo  =>  *4*  Pos.  =>  *2*   
+ 21  =>  Nome  =>  *SENEGAL*  Grupo  =>  *5*  Pos.  =>  *2*   
+ 22  =>  Nome  =>  *EGITO*  Grupo  =>  *6*  Pos.  =>  *4*   
+ 23  =>  Nome  =>  *IRÇ*  Grupo  =>  *7*  Pos.  =>  *4*   
+ 24  =>  Nome  =>  *COSTA_RICA*  Grupo  =>  *8*  Pos.  =>  *2*   
+ 25  =>  Nome  =>  *AUSTRµLIA*  Grupo  =>  *1*  Pos.  =>  *4*   
+ 26  =>  Nome  =>  *ARµBIA_SAUDITA*  Grupo  =>  *2*  Pos.  =>  *4*   
+ 27  =>  Nome  =>  *PANAMµ*  Grupo  =>  *3*  Pos.  =>  *4*   
+ 28  =>  Nome  =>  *JAPÇO*  Grupo  =>  *4*  Pos.  =>  *4*   
+ 29  =>  Nome  =>  *SRVIA*  Grupo  =>  *5*  Pos.  =>  *4*   
+ 30  =>  Nome  =>  *CORIA_DO_SUL*  Grupo  =>  *6*  Pos.  =>  *2*   
+ 31  =>  Nome  =>  *NIGRIA*  Grupo  =>  *7*  Pos.  =>  *2*   
+ 32  =>  Nome  =>  *MARROCOS*  Grupo  =>  *8*  Pos.  =>  *4*   
+ Posicao  =>  *2* Ordem  =>  |8|  POTE =>  *3*    
+  25  =>  Nome  =>  *AUSTRµLIA*  Grupo  =>  *1*  Posicao  =>  *4* Ordem  =>  |1|  POTE =>  *4*    
+  26  =>  Nome  =>  *ARµBIA_SAUDITA*  Grupo  =>  *2*  Posicao  =>  *4* Ordem  =>  |2|  POTE =>  *4*    
+  27  =>  Nome  =>  *PANAMµ*  Grupo  =>  *3*  Posicao  =>  *4* Ordem  =>  |3|  POTE =>  *4*    
+  28  =>  Nome  =>  *JAPÇO*  Grupo  =>  *4*  Posicao  =>  *4* Ordem  =>  |4|  POTE =>  *4*    
+  29  =>  Nome  =>  *SRVIA*  Grupo  =>  *5*  Posicao  =>  *4* Ordem  =>  |5|  POTE =>  *4*    
+  30  =>  Nome  =>  *CORIA_DO_SUL*  Grupo  =>  *6*  Posicao  =>  *2* Ordem  =>  |6|  POTE =>  *4*    
+  31  =>  Nome  =>  *NIGRIA*  Grupo  =>  *7*  Posicao  =>  *2* Ordem  =>  |7|  POTE =>  *4*    
+  32  =>  Nome  =>  *MARROCOS*  Grupo  =>  *8*  Posicao  =>  *4* Ordem  =>  |8|  POTE =>  *4*    

@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1527210934 source:c:\users\kozak\desktop\c\copa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1530040110 source:e:\copa\main.c
+	"MENU.h"
+
+1528213042 source:f:\copa\main.c
+	"MENU.h"
+
+1529085104 f:\copa\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	<conio.h>
+
+1529601306 source:f:\copa\menu.c
+	"MENU.h"
+	"STRUCTS.h"
+	"SORTEIO.h"
+	"LOGSORTEIO.h"
+
+1527944288 f:\copa\structs.h
+
+1529085104 e:\copa\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	<conio.h>
+
+1530040376 source:e:\copa\menu.c
+	"MENU.h"
+	"STRUCTS.h"
+	"SORTEIO.h"
+	"LOGSORTEIO.h"
+
+1530045438 e:\copa\structs.h
+
+1530714586 e:\copa\sorteio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	"STRUCTS.h"
+
+1530716078 source:e:\copa\sorteio.c
+	"SORTEIO.h"
+	<time.h>
+	"STRUCTS.h"
+
+1530021886 source:e:\copa\logsorteio.c
+	"LOGSORTEIO.h"
+	"STRUCTS.h"
+	"SORTEIO.h"
+	"MENU.h"
+
+1529790194 e:\copa\logsorteio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"STRUCTS.h"
+
+1529809054 source:g:\copa\logsorteio.c
+	"LOGSORTEIO.h"
+	"STRUCTS.h"
+	"SORTEIO.h"
+	"MENU.h"
+
+1529790194 g:\copa\logsorteio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"STRUCTS.h"
+
+1529798252 g:\copa\structs.h
+
+1528213042 source:g:\copa\main.c
+	"MENU.h"
+
+1529085104 g:\copa\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	<conio.h>
+
+1529875286 source:g:\copa\menu.c
+	"MENU.h"
+	"STRUCTS.h"
+	"SORTEIO.h"
+	"LOGSORTEIO.h"
+
+1529801372 g:\copa\sorteio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	"STRUCTS.h"
+
+1529793082 source:g:\copa\sorteio.c
+	"SORTEIO.h"
+	<time.h>
+	"STRUCTS.h"
+
+1529605470 source:f:\copa\logsorteio.c
+	"LOGSORTEIO.h"
+	"STRUCTS.h"
+	"SORTEIO.h"
+	"MENU.h"
+
+1529598066 f:\copa\logsorteio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"STRUCTS.h"
+
+1529598092 f:\copa\sorteio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	"STRUCTS.h"
+
+1529602634 source:f:\copa\sorteio.c
+	"SORTEIO.h"
+	<time.h>
+	"STRUCTS.h"
+
